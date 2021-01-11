@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrancisBulu_Interfaces", "FrancisBulu_Interfaces\FrancisBulu_Interfaces.csproj", "{849BC563-7A09-4FBB-BF2A-6A40DA1106AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849BC563-7A09-4FBB-BF2A-6A40DA1106AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849BC563-7A09-4FBB-BF2A-6A40DA1106AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849BC563-7A09-4FBB-BF2A-6A40DA1106AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849BC563-7A09-4FBB-BF2A-6A40DA1106AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D2DEAA-03AB-4AC2-9D94-B044912F2894}
+	EndGlobalSection
+EndGlobal
